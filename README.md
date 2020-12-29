@@ -547,7 +547,7 @@
   "technology.ability": "ability",
   "technology.ability.info": "{1} gives you the ability to {1}",
   "technology.names.basic": "basic",
-  "technology.names.riding": "Riding",
+  "technology.names.riding": "Nhanh đấy",
   "technology.names.freespirit": "Free Spirit",
   "technology.names.chivalry": "Chivalry",
   "technology.names.roads": "Roads",
